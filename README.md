@@ -1,6 +1,6 @@
 # Pipe
 
-Pipe is a utility class for fluent string manipulation.
+Pipe is a utility class for fluent data manipulation.
 
 ## Requirements
 
@@ -15,8 +15,6 @@ composer require xtompie/pipe
 ```
 
 ## Doc
-
-### Basic example
 
 ```php
 <?php
